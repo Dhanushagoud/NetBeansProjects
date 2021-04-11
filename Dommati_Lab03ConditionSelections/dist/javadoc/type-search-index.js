@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"travelexpenses","l":"RouteCalculator"},{"p":"travelexpenses","l":"RouteDriver"}];updateSearchResults();

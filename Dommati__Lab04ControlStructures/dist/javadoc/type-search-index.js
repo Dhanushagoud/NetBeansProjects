@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"starbucks","l":"Starbucks"},{"p":"starbucks","l":"StarbucksDriver"}];updateSearchResults();

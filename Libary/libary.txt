@@ -1,0 +1,3 @@
+public 3000
+central 15000 
+govt 40000

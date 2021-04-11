@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-18T05:36:27Z" name="Dommati_Lab06NGTesting" finished-at="2021-03-18T05:36:27Z" duration-ms="125">
+    <groups>
+    </groups>
+    <test started-at="2021-03-18T05:36:27Z" name="TestNG tests" finished-at="2021-03-18T05:36:27Z" duration-ms="125">
+      <class name="banking.AccountNGTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:banking.AccountNGTest@1bce4f0a]" started-at="2021-03-18T00:36:27Z" name="setUpClass" finished-at="2021-03-18T00:36:27Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:banking.AccountNGTest@1bce4f0a]" started-at="2021-03-18T00:36:27Z" name="setUpMethod" finished-at="2021-03-18T00:36:27Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testGenerateStatement()[pri:0, instance:banking.AccountNGTest@1bce4f0a]" started-at="2021-03-18T00:36:27Z" name="testGenerateStatement" finished-at="2021-03-18T00:36:27Z" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGenerateStatement -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:banking.AccountNGTest@1bce4f0a]" started-at="2021-03-18T00:36:27Z" name="tearDownMethod" finished-at="2021-03-18T00:36:27Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:banking.AccountNGTest@1bce4f0a]" started-at="2021-03-18T00:36:27Z" name="setUpMethod" finished-at="2021-03-18T00:36:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testGetNoofWithdrawals()[pri:0, instance:banking.AccountNGTest@1bce4f0a]" started-at="2021-03-18T00:36:27Z" name="testGetNoofWithdrawals" finished-at="2021-03-18T00:36:27Z" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetNoofWithdrawals -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:banking.AccountNGTest@1bce4f0a]" started-at="2021-03-18T00:36:27Z" name="tearDownMethod" finished-at="2021-03-18T00:36:27Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:banking.AccountNGTest@1bce4f0a]" started-at="2021-03-18T00:36:27Z" name="setUpMethod" finished-at="2021-03-18T00:36:27Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testMakeTransaction()[pri:0, instance:banking.AccountNGTest@1bce4f0a]" started-at="2021-03-18T00:36:27Z" name="testMakeTransaction" finished-at="2021-03-18T00:36:27Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMakeTransaction -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:banking.AccountNGTest@1bce4f0a]" started-at="2021-03-18T00:36:27Z" name="tearDownClass" finished-at="2021-03-18T00:36:27Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:banking.AccountNGTest@1bce4f0a]" started-at="2021-03-18T00:36:27Z" name="tearDownMethod" finished-at="2021-03-18T00:36:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- banking.AccountNGTest -->
+    </test> <!-- TestNG tests -->
+  </suite> <!-- Dommati_Lab06NGTesting -->
+</testng-results>
